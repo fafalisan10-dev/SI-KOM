@@ -143,14 +143,10 @@ Aplikasi dapat diakses di `http://127.0.0.1:8000` (atau sesuai domain lokal Lara
 3. **Notifikasi Stok Menipis**: Sistem otomatis menandai barang dengan stok ≤ 5 sebagai "stok menipis", ditampilkan di dashboard dan lonceng notifikasi pada sidebar.
 4. **Laporan**: Menggabungkan data stok barang terkini dengan ringkasan aktivitas peminjaman pada rentang tanggal yang dipilih, dapat diexport ke PDF.
 
-## Screenshot
-
-_(Tambahkan screenshot dashboard, master data barang, dan laporan di sini sebelum submission, agar penilai bisa melihat preview tanpa perlu install project.)_
-
 ## Link Demo
 
-_(Isi setelah deployment: https://your-deployed-url.com)_
+(https://inventaris-telkomsel-production.up.railway.app )
 
 ## Kontak
 
-Dibuat oleh **[Nama Kamu]** untuk Challenge Seleksi Magang Sistem Informasi PT Telkomsel.
+Dibuat oleh **[Fasikhul Lisan]** untuk Challenge Seleksi Magang Sistem Informasi PT Telkomsel.
